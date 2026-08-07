@@ -16,7 +16,11 @@ This is a macropad, in this repo you will find the parts list, total amount to m
 
 | Item Name | Cost (USD) | Link  |
 | ------------- | ------------- | ------------- |
-| MODULE-SEEEDUINO-XIAO  | $5.40  | [Link](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html?srsltid=AfmBOorrnddGiXXqpR42VvWUJCo8GkCNcB852G8yqfsik4Qs785sIQD_) |
+| Arduino Pro Micro  | $5.00  | [Link](https://www.pcboard.ca/arduino-pro-micro) |
+
+## CAD
+
+[OnShape](https://cad.onshape.com/documents/91fbd2ecc812749314d70d96/w/e7b00437c586504b0e660677/e/854394856a88eebcf7cbc972?renderMode=0&uiState=6a766f25c520667d42b590b3)
 
 ## Resources Used
 
