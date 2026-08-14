@@ -14,9 +14,13 @@ This is a macropad, in this repo you will find the parts list, total amount to m
 
 ## Parts List
 
-| Item Name | Cost (USD) | Link  |
+| Item Name | Quantity | Cost (USD) | Link  |
 | ------------- | ------------- | ------------- |
-| Arduino Pro Micro  | $5.00  | [Link](https://www.pcboard.ca/arduino-pro-micro) |
+| XIAO RP2040 | 1 | $5.00 | [Link]([https://www.pcboard.ca/arduino-pro-micro](http://seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) |
+| Case | 1 | 3D Printed | [Link](comingsoon) |
+| 1N4148 Diodes | x20 | ~$0.90 | [Link](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603) |
+| MX-Style switches | x16 | -- | [Link](comingsoon) |
+| DSA keycaps | x9 | -- | [Link](comingsoon) |
 
 ## CAD
 
