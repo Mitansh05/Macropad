@@ -3,7 +3,7 @@
 
 This is a macropad, in this repo you will find the parts list, total amount to make this project, tools used, and also this project will completely be open source.
 
-![Project Screenshot]("Project-Screenshot.png")
+![Project Screenshot](Project-Screenshot.png)
 
 ## Authors
 
