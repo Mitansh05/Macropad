@@ -32,6 +32,9 @@ This is a macropad, in this repo you will find the parts list, total amount to m
 
 ![PCB Image](images\PCB.webp)
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
+
+
 ### Schematic
 
 ![Project Screenshot](images\Schmatic.webp)
