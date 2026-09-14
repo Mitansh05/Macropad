@@ -1,8 +1,8 @@
 # My Macropad
 
-This is a macropad, in this repo you will find the parts list, total amount to make this project, tools used, and also this project will completely be open source.
+This is my small open sourced 6 key macropad project, this is mainly built arounf the **Seeed Studio XIAO RP2040**, but the case also supports the **Micro Pico** but using the micro will require a minor wiring change to the PCB and minor changes to the _Firmware_ code.
 
-![Project Screenshot](images\Project-Screenshot.png)
+![Macropad](images/Project-Screenshot.png)
 
 ## Authors
 
@@ -31,9 +31,6 @@ This is a macropad, in this repo you will find the parts list, total amount to m
 ## PC Images
 
 ![PCB Image](images\PCB.webp)
-
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
-
 
 ### Schematic
 
