@@ -32,6 +32,8 @@ This is my small open sourced 6 key macropad project, this is mainly built aroun
 
 ![PCB Image](images\PCB.webp)
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
+
 ### Schematic
 
 ![Project Screenshot](images\Schmatic.webp)
