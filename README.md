@@ -12,6 +12,22 @@ This is my small open sourced 6 key macropad project, this is mainly built aroun
 
 [Documentation](https://stardance.hackclub.com/projects/44402)
 
+## PC Images
+
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
+
+![PCB Image](images\PCB.webp)
+
+### Schematic
+
+![Project Screenshot](images\Schmatic.webp)
+
+- This is another viable PCB desing that can also be used, this design was made for compact or smaller cases.
+
+## CAD
+
+[OnShape](https://cad.onshape.com/documents/91fbd2ecc812749314d70d96/w/e7b00437c586504b0e660677/e/854394856a88eebcf7cbc972?renderMode=0&uiState=6a766f25c520667d42b590b3)
+
 ## Parts List
 
 | Item Name                 | Quantity | Cost (USD) | Link                                                                                                                                                                                                                                                                                     |
@@ -24,21 +40,28 @@ This is my small open sourced 6 key macropad project, this is mainly built aroun
 | M3x16mm screws            | x6       | $2.98      | [Link](https://www.lowes.com/pd/Hillman-3mm-0-5-x-16mm-Phillips-Drive-Machine-Screws-12-Count/999994900?store_code=2319)                                                                                                                                                                 |
 | M3x5mx4mm heatset inserts | x6       | $0.99      | [Link](https://www.aliexpress.us/item/2255800046543591.html)                                                                                                                                                                                                                             |
 
-## CAD
+## 🚀 Software Installation Setup
 
-[OnShape](https://cad.onshape.com/documents/91fbd2ecc812749314d70d96/w/e7b00437c586504b0e660677/e/854394856a88eebcf7cbc972?renderMode=0&uiState=6a766f25c520667d42b590b3)
+Follow these quick steps to flash and launch the firmware:
 
-## PC Images
+### Step 1: Install CircuitPython
 
-![PCB Image](images\PCB.webp)
+1. Hold down the physical **`BOOT`** / **`BOOTSEL`** button on your Seeed XIAO board.
+2. Select **everything inside** your local `Firmware` folder (`kmk`, `boot.py`, `code.py`, `keymap.py`).
+3. Drag and drop them straight into the **`CIRCUITPY`** drive root directory.
+4. Safely eject the drive from your operating system, unplug the physical USB cable for 3 seconds, and plug it back in to initialize the fresh macros!
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
+---
 
-### Schematic
+## ⌨️ Active Layout Blueprint
 
-![Project Screenshot](images\Schmatic.webp)
+Your 9 keys operate in this exact grid layout, optimized natively for Windows/Linux platforms:
 
-- This is another viable PCB desing that can also be used, this design was made for compact or smaller cases.
+| Left Column                     | Center Column                    | Right Column                   |
+| :------------------------------ | :------------------------------- | :----------------------------- |
+| **📑 Copy**<br>`Pin D0`         | **📋 Paste**<br>`Pin D1`         | **📊 Calculator**<br>`Pin D2`  |
+| **🎵 Play / Pause**<br>`Pin D3` | **⏮️ Prev Track**<br>`Pin D4`    | **🔇 Panic Mute**<br>`Pin D5`  |
+| **🛠️ Task Manager**<br>`Pin D6` | **✂️ Snipping Tool**<br>`Pin D7` | **🔒 Lock Screen**<br>`Pin D8` |
 
 ## Resources Used
 
