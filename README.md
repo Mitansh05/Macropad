@@ -16,11 +16,11 @@ This is my small open sourced 6 key macropad project, this is mainly built aroun
 
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FMitansh05%2FMacropad%2Fblob%2Fmain%2FProduction%2FFinal%2FMacropad.kicad_pcb)
 
-![PCB Image](images\PCB.webp)
+![PCB Image](images/PCB.webp)
 
 ### Schematic
 
-![Project Screenshot](images\Schmatic.webp)
+![Project Screenshot](images/Schmatic.webp)
 
 - This is another viable PCB desing that can also be used, this design was made for compact or smaller cases.
 
