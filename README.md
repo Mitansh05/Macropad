@@ -14,7 +14,7 @@ This is my small open sourced 6 key macropad project, this is mainly built aroun
 
 ## PC Images
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FMitansh05%2FMacropad%2Fblob%2Fmain%2FProduction%2FFinal%2FMacropad.kicad_pcb)
 
 ![PCB Image](images\PCB.webp)
 
