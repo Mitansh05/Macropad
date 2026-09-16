@@ -68,3 +68,5 @@ Your 9 keys operate in this exact grid layout, optimized natively for Windows/Li
 [HackClub HackPad](https://hackpad.hackclub.com/guide)
 
 [KiCad](https://www.kicad.org/)
+
+<!-- Finished >
