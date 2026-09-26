@@ -21,7 +21,7 @@ This is my open source 9-key macropad, this project is mainly built around the *
 ![Project schematic](images/XIAO-schm.png)
 ![Project PCB](images/XIAO-pcb.png)
 
-#### Pico:
+#### Alt approch to the PCB:
 
 ![Project Screenshot - Pico](images/Schmatic.webp)
 
