@@ -18,13 +18,12 @@ This is my open source 9-key macropad, this project is mainly built around the *
 
 ### Schematic / PCB imgs
 
-![Project schematic](images\XIAO-schm.png)
-![Project PCB](images\XIAO-pcb.png)
-![Project PCB2](images/PCB.webp)
+![Project schematic](images/XIAO-schm.png)
+![Project PCB](images/XIAO-pcb.png)
 
 #### Pico:
 
-![Project Screenshot - Pico](images\Schmatic.webp)
+![Project Screenshot - Pico](images/Schmatic.webp)
 
 ## Getting Started - Firmware / setup
 
