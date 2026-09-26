@@ -12,7 +12,7 @@ This is my open source 9-key macropad, this project is mainly built around the *
 
 ### Try it yourself
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FMitansh05%2FMacropad%2Fblob%2Fmain%2FProduction%2FFinal%2FMacropad.kicad_pcb)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FMitansh05%2FMacropad%2Fblob%2Fmain%2FPCB%2FMacropad.kicad_pcb)
 
 ![PCB Image](images/PCB.webp)
 
@@ -20,6 +20,7 @@ This is my open source 9-key macropad, this project is mainly built around the *
 
 ![Project schematic](images\XIAO-schm.png)
 ![Project PCB](images\XIAO-pcb.png)
+![Project PCB2](images/PCB.webp)
 
 #### Pico:
 
